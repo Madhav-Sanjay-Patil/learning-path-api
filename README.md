@@ -38,8 +38,8 @@ project/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Madhav-Sanjay-Patil/learning-path-api.git
+cd Madhav-Sanjay-Patil
 ````
 
 ### 2. Create and activate a virtual environment
