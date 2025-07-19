@@ -55,7 +55,7 @@ source venv/bin/activate       # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 4. Seed the database with initial data
+### 4. Seed the database with initial data (if no instance present already)
 
 ```bash
 python seed.py
