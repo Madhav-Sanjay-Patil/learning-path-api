@@ -1,3 +1,5 @@
+# FILE TO PRE-INITIALISE DATABASE WITH VALUES FOR TESTING
+
 from app import create_app
 from app.extensions import db
 from app.models.models import Topic, LearnerProgress

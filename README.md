@@ -91,6 +91,3 @@ Powered by [Flasgger](https://github.com/flasgger/flasgger)
 ## License
 
 This project is licensed under the MIT License.
-
-```
-
